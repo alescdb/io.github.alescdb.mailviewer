@@ -62,7 +62,7 @@
         {
           "type": "git",
           "url": "https://github.com/alescdb/mailviewer.git",
-          "tag": "0.9.96"
+          "tag": "0.9.97"
         }
       ]
     }
