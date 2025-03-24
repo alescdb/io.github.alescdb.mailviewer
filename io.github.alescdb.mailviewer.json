@@ -1,7 +1,7 @@
 {
   "id": "io.github.alescdb.mailviewer",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "47",
+  "runtime-version": "48",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -62,7 +62,7 @@
         {
           "type": "git",
           "url": "https://github.com/alescdb/mailviewer.git",
-          "tag": "0.9.97"
+          "tag": "1.0.0"
         }
       ]
     }
