@@ -61,7 +61,7 @@
         {
           "type": "git",
           "url": "https://github.com/alescdb/mailviewer.git",
-          "tag": "1.0.6"
+          "commit": "cedbd223fbfe63d0f2755a090580422a0917ab77"
         }
       ]
     }
